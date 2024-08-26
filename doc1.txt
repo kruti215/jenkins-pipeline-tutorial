@@ -1,0 +1,3 @@
+Hello World!
+i am kruti.
+this is devops lab.
